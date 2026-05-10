@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Cal Poly
+// Engineer: Maria Dimvoa
 // 
 // Create Date: 04/15/2026 05:25:09 PM
 // Design Name: 
 // Module Name: PC_REGISTER
-// Project Name: 
+// Project Name: Otter Program Counter Register
 // Target Devices: 
 // Tool Versions: 
 // Description: 

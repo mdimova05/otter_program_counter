@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Cal Poly
+// Engineer: Maria Dimova
 // 
 // Create Date: 04/14/2026 01:59:13 PM
 // Design Name: 
 // Module Name: OTTER_PC_TB
-// Project Name: 
+// Project Name: Otter Program Counter Test Bench
 // Target Devices: 
 // Tool Versions: 
 // Description: 
